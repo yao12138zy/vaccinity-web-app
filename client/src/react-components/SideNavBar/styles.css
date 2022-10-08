@@ -1,0 +1,9 @@
+/* Styles for the Header React component */
+.sideNavBar {
+  float: left;
+  width: 300px;
+  height: 800px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}

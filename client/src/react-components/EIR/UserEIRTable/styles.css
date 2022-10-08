@@ -1,0 +1,10 @@
+.byDateReversed {
+  max-width: 1000px;
+  border-color: black;
+  border-width: 2px;
+}
+.Header{
+  background-color: grey;
+  font-weight: bold;
+
+}

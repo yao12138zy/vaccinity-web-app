@@ -1,0 +1,43 @@
+#headers {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+#buttons {
+  text-align: center;
+}
+
+#regButton {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+#regFormContainer {
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 0%);
+  justify-content: center;
+  align-items: center;
+}
+
+.registrationForm {
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 0%);
+  align-items: right;
+  max-width: 400px;
+}
+
+.row {
+  align-items: center;
+}
+
+p {
+  text-align: center;
+}
+
+.MuiButton-root.login__button {
+  margin-top: 50px;
+}

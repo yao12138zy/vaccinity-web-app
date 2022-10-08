@@ -1,0 +1,35 @@
+.articleEdit {
+    align-items: center;
+    /* max-width: 800px; */
+    padding: 2%
+  }
+  
+  .row {
+    align-items: center;
+  }
+  .ProfileButton{
+    display: inline-block;
+    margin-left: 20px;
+  }
+
+  
+  .LogoContainer{
+    display:inline-block;
+    margin-left: 10px;
+  }
+  
+  .LoginButtonContainer{
+    display:inline-block;
+    text-align:center;
+    margin-top: 10px;
+  }
+  
+  .NotificationContainer{
+    display:inline-block;
+    margin-right: 10px;
+    margin-top: 5px;
+  }
+
+  .title {
+    font-weight: bold;
+  }

@@ -1,0 +1,34 @@
+#SubmitButtonContainer {
+  margin-top: 23%;
+  margin-left: 40%;
+  display: inline-block;
+}
+
+.loginInput {
+  width: 200px;
+  margin-left: 20px;
+  margin-top: 40px;
+}
+
+#RegisterButtonContainer {
+  display: inline-block;
+  margin-left: 20px;
+  margin-top: 40px;
+  bottom: 20px;
+}
+
+.LoginForm {
+  position: absolute;
+  top: 20%;
+  left: 40%;
+}
+
+.ErrorMessage {
+  position: absolute;
+  top: 15%;
+  left: 40%;
+}
+
+.LoginBackground {
+  min-height: 800px;
+}

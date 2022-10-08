@@ -1,0 +1,65 @@
+/* Styles for the Table React component */
+.center {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+.bg {
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-color: lightskyblue
+}
+
+.table_text {
+    position: relative;
+    top: 10%;
+    left: 50%;
+    color: pink;
+    transform: translate(-50%, -50%);
+}
+
+.table_container {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.table_button-link {
+    text-decoration: none;
+    }
+.table_button {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.left_top {
+    position: absolute;
+    top: 0;
+    float: left;
+}
+.back_button-link {
+    text-decoration: none;
+
+}
+
+.back_button .MuiButton-label {
+    font-size: 1.2em;
+    color: lightseagreen
+}
+
+
+.invalid_button .MuiButton-label {
+    font-size: 1.2em;
+    color: red
+}
+
+.valid_button .MuiButton-label {
+    font-size: 1.2em;
+    color: lightgreen;
+    
+}

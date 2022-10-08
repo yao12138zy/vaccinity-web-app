@@ -1,0 +1,26 @@
+.simple-menu{
+  transform:translateY(40px);
+
+}
+.MenuBarButtonContainer{
+  margin-left: 20px;
+}
+.HomeLink{
+  text-decoration: none;
+  color:white;
+}
+#ArticleButton{
+  color:white;
+  padding:20px;
+
+}
+#AppointmentButton{
+  color:white;
+  padding:20px;
+
+}
+#AccountButton{
+  color:white;
+  padding:20px;
+
+}

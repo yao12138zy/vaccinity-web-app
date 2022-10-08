@@ -1,0 +1,14 @@
+/* Styles for the TabSection component */
+
+.tabsection_paper {
+    padding: 20px;
+    margin-top: 50px;
+}
+
+.tab_name {
+  font-size: large;
+}
+#TabHolder{
+  margin-bottom: 20px;
+  margin-top: 50px;
+}

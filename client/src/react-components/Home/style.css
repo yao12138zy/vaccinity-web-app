@@ -1,0 +1,30 @@
+#LogoContainer{
+  display:inline-block;
+  margin-left: 10px;
+}
+
+#LoginButtonContainer{
+  display:inline-block;
+  float: right;
+  text-align:center;
+  margin-top: 10px;
+}
+
+#NotificationContainer{
+  display:inline-block;
+  float:right;
+  margin-right: 10px;
+  margin-top: 5px;
+
+}
+#TabContainer{
+  margin-top: 20px;
+}
+#VaccineContainer{
+  margin-top: 200px;
+}
+
+.home_paper {
+  padding: 3%; 
+  min-height: 70%;
+}

@@ -1,0 +1,13 @@
+.form {
+  align-items: center;
+  max-width: 800px;
+}
+
+.row {
+  align-items: center;
+}
+
+.ProfileButton {
+  display: inline-block;
+  margin-left: 20px;
+}

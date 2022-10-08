@@ -1,0 +1,52 @@
+  
+/* Styles for the ArticlePage component */
+.box {
+    min-height: 60vh;
+    padding: 2%;
+  }
+  
+  .page_grid {
+    /* background-color: #3f51b5; */
+  }
+
+  .LogoContainer{
+    display:inline-block;
+    margin-left: 10px;
+  }
+  
+  .LoginButtonContainer{
+    display:inline-block;
+    float: right;
+    text-align:center;
+    margin-top: 10px;
+  }
+  
+  .NotificationContainer{
+    display:inline-block;
+    float:right;
+    margin-right: 10px;
+    margin-top: 5px;
+  
+  }
+  .TabContainer{
+    margin-top: 20px;
+  }
+  .VaccineContainer{
+    margin-top: 200px;
+  }
+
+  .article_page {
+    padding: 2%;
+  }
+
+  .editButton {
+    padding: 10px;
+    margin-right: 10px;
+    float: right;
+  }
+
+  .cardclick {
+    text-decoration: none;
+  }
+
+  

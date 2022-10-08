@@ -1,0 +1,54 @@
+  
+/* Styles for the AllArticles component */
+.allarticles_paper {
+    padding: 2%; 
+    /* margin-top: 50px; */
+    min-height: 70%;
+    background-color: rgb(173, 185, 255);
+  }
+  
+.articleSection_grid {
+    padding: 2%;
+    background-color: white;
+}
+
+.LogoContainer{
+  display:inline-block;
+  margin-left: 10px;
+}
+
+.LoginButtonContainer{
+  display:inline-block;
+  float: right;
+  text-align:center;
+  margin-top: 10px;
+}
+
+.NotificationContainer{
+  display:inline-block;
+  float:right;
+  margin-right: 10px;
+  margin-top: 5px;
+
+}
+.TabContainer{
+  margin-top: 20px;
+}
+.VaccineContainer{
+  margin-top: 200px;
+}
+
+.title {
+  padding: 2%;
+}
+  
+
+.info_box {
+  min-height: 60vh;
+  padding: 2%;
+}
+
+.info_div {
+  /* max-width: 1280px; */
+  width: 100%;
+}

@@ -1,0 +1,32 @@
+  
+/* Styles for the ArticleCard component */
+.card {
+  min-width: 25%;
+  min-height: 350px;
+  /* height: %; */
+}
+
+.cardmedia {
+  height: 140px;
+}
+
+.link_button {
+  text-decoration: none;
+}
+
+.summary {
+  max-height: 150px;
+  overflow: hidden;
+}
+
+.cardclick {
+  text-decoration: none;
+}
+
+.cardclick:link, .cardclick:visited {
+  color: black;
+}
+
+.p {
+  text-align: left;
+}

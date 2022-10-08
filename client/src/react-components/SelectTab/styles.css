@@ -1,0 +1,32 @@
+/* Styles for the SelectTab component */
+
+.select_leftgrid {
+    padding: 20px; 
+    margin-left: 100px;
+    margin-top: 10px; 
+    margin-bottom: 10px;
+}
+  
+.select_innergrid {
+    padding: 20px;
+    margin-left: 80px; 
+    margin-top: 10px; 
+    margin-bottom: 10px;
+}
+
+.select_rightgrid {
+    padding: 20px; 
+    margin-right: 100px;
+    margin-top: 10px; 
+    margin-bottom: 10px;
+}
+
+
+.linked_button {
+    text-decoration: none;
+}
+
+p {
+    white-space: pre-wrap;
+}
+  
